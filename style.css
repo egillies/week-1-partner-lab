@@ -1,0 +1,22 @@
+.ocean-img {
+    border-radius: 8%;
+    min-height: 30vh;
+}
+
+.car-img {
+    max-height: 70%;
+    max-width: 70%;
+}
+
+.grass-hand {
+    max-width: 95%;
+    max-height: 40%;
+}
+
+.grass-img {
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+    height: 300px;
+    overflow: hidden;
+}
